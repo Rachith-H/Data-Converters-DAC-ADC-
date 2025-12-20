@@ -75,7 +75,7 @@ This allows verification of both static transfer characteristics and transient b
 ---
 
 ### ngspice Simulation
-![ngspice Simulation](images/Flash_adc_sim_window.png)
+![ngspice Simulation](Images/Flash_adc_sim_window.png)
 
 - ngspice used to simulate full ADC
 - Nodes monitored include input analog sine signal and final 4-bit digital result.
