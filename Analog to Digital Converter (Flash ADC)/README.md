@@ -64,7 +64,7 @@ The simulation applies:
 
 - A **sine wave** is applied as the input signal to the ADC.
 - The ADC produces the correct **4-bit binary output** corresponding to the positive half-cycles of the input.
-- During negative half-cycles, the output is one() 0001(as expected for ADC design).
+- During negative half-cycles, the output is one(0001) (as expected for ADC design).
 - Each digital output represents a discrete increment or decrement in the applied analog signal.
 - Confirms correct operation of comparator array and priority encoder.
 
