@@ -20,17 +20,4 @@ three main sections:
    - Hierarchical design using **comparator array and priority encoder**
    - Verified with sine-wave input and correct binary output
 
----
-
-## Purpose
-
-- Demonstrate transistor-level and hierarchical design of **mixed-signal circuits**
-- Provide a **reusable library of analog and digital primitives**
-- Showcase **design, simulation, and verification workflow** using Sky130
-
----
-
-## Usage
-
-- Explore individual folders for detailed designs, schematics, and simulation results
-- All designs are implemented and verified in **Xschem** with **ngspice**
+**Tools Used :** Xschem, ngspice, Sky130 CMOS PDK
