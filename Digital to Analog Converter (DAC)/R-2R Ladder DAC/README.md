@@ -89,7 +89,7 @@ to ensure clarity and repeatability.
 - Uniform step size observed across the output range
 - Good linearity and monotonic behavior
 - Ladder structure maintains consistent impedance
-- Stable output achieved using the CMOS op-amp
+- Stable output achieved using the op-amp
 
 ---
 
