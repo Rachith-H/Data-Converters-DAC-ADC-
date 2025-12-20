@@ -3,7 +3,6 @@
 This document describes the design and verification of a **two-stage Miller
 operational amplifier**, implemented using the
 **Sky130 PDK** in Xschem.
-
 The op-amp is designed as a reusable analog primitive and is used in
 data-converter blocks such as **DAC output stages** and **ADC reference and
 comparison circuits**.
