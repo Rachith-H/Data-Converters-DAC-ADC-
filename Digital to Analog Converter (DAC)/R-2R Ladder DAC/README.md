@@ -36,7 +36,7 @@ The ladder network generates weighted currents that:
 ## Circuit Implementation
 
 ### Schematic
-![R-2R DAC Schematic](images/R2R_DAC_schematic.png)
+![R-2R DAC Schematic](Images/R2R_DAC_schematic.png)
 
 The schematic shows:
 - R and 2R resistors arranged in a ladder configuration
@@ -48,7 +48,7 @@ The schematic shows:
 ## Simulation Setup
 
 ### Schematic
-![R-2R DAC Testbench](images/R2R_DAC_inputs.png)
+![R-2R DAC Testbench](Images/R2R_DAC_inputs.png)
 
 The simulation applies:
 - 4-bit digital counts using pulse sources
@@ -61,9 +61,9 @@ This setup enables observation of the DAC output across all input codes.
 ## Simulation Results
 
 ### Staircase Output Waveform
-![R-2R DAC Staircase Waveform](images/R2R_DAC_output.png)  
+![R-2R DAC Staircase Waveform](Images/R2R_DAC_output.png)  
 
-![R-2R DAC Staircase Waveform](images/R2R_DAC_all_waves.png)  
+![R-2R DAC Staircase Waveform](Images/R2R_DAC_all_waves.png)  
 
 The transient simulation produces a **staircase waveform**, where:
 - Each step corresponds to a single LSB increment
@@ -76,7 +76,7 @@ This staircase behavior confirms correct digital-to-analog conversion.
 
 ### ngspice Simulation
 
-![ngspice Simulation](R2R_DAC_sim_window.png)
+![ngspice Simulation](Images/R2R_DAC_sim_window.png)
 
 ngspice is used to simulate the DAC and plot both the digital inputs and
 analog output. The simulation commands explicitly define the observed nodes
