@@ -37,8 +37,8 @@ The logic function is realized as a **NOR gate** followed by an Inverter.
 
 
 The circuit consists of:
-- A pull-up network (PMOS) arranged in **parallel**
-- A pull-down network (NMOS) arranged in **series**
+- A pull-up network (PMOS) arranged in **series**
+- A pull-down network (NMOS) arranged in **parallel**
 - An inverter stage to obtain the OR logic output
 
 This structure ensures correct logic evaluation for all input combinations.
