@@ -54,7 +54,7 @@ The schematic includes:
 ---
 
 ### Symbol
-![Op-Amp Symbol](images/opamp_xschem_symbol.png)
+![Op-Amp Symbol](Images/opamp_xschem_symbol.png)
 
 A custom symbol is created to enable hierarchical instantiation of the op-amp
 in higher-level designs without exposing internal transistor details.
@@ -64,7 +64,7 @@ in higher-level designs without exposing internal transistor details.
 ## Testbench Setup
 
 ### Testbench Schematic
-![Op-Amp Testbench](images/opamp_testbench.png)
+![Op-Amp Testbench](Images/opamp_testbench.png)
 
 The testbench is configured as inverting comparator to compare an input sine wave to a DC voltage.
 
@@ -72,7 +72,7 @@ The testbench is configured as inverting comparator to compare an input sine wav
 
 ## Simulation
 
-![Transient Response](images/Opamp_output.png)
+![Transient Response](Images/Opamp_output.png)
 
 Simulation results show:
 - Stable behavior
@@ -83,7 +83,7 @@ Simulation results show:
 
 ### ngspice Simulation
 
-![ngspice Simulation](images/opamp_sim_window.png)
+![ngspice Simulation](Images/opamp_sim_window.png)
 
 ngspice is used to simulate the op-amp and plot relevant node voltages and
 frequency responses. Simulation commands explicitly define the measured
