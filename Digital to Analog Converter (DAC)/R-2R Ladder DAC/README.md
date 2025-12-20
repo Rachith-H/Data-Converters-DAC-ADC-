@@ -1,6 +1,6 @@
 # 4-bit R-2R Ladder DAC
 
-This document describes the design and verification of a **4-bit R-2R ladder
+This document describes the design and simulation of a **4-bit R-2R ladder
 Digital-to-Analog Converter (DAC)** implemented using the **Sky130 PDK**
 in Xschem.
 
