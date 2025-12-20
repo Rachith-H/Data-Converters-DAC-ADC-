@@ -47,7 +47,7 @@ The schematic shows:
 
 ## Simulation Setup
 
-### Schematic
+### Inputs applied
 ![R-2R DAC Testbench](Images/R2R_DAC_inputs.png)
 
 The simulation applies:
