@@ -65,7 +65,7 @@ The testbench applies:
 
 ---
 
-## Simulation and Verification
+## Simulation 
 
 ### Waveform Results
 ![OR Gate Waveforms](Images/or_gate_all_waves.png)
