@@ -91,7 +91,7 @@ Simulation results confirm:
 
 ### ngspice Simulation
 
-![ngspice Simulation](images/P_enc_4to2_sim_window.png)
+![ngspice Simulation](Images/P_enc_4to2_sim_window.png)
 
 ngspice is used to simulate and visualize the encoder operation. The plotted
 signals include all inputs and encoded outputs, enabling direct correlation
