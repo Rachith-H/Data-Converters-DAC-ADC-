@@ -77,7 +77,7 @@ This ensures correct encoding behavior under all valid input conditions.
 
 ---
 
-## Simulation and Verification
+## Simulation 
 
 ### Waveform Results
 ![Priority Encoder Waveforms](Images/P_enc_4to2_waveforms.png)
