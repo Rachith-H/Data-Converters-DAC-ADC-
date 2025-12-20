@@ -78,7 +78,7 @@ The waveforms confirm:
 
 ### ngspice Simulation
 
-![ngspice Simulation](images/mux_sim_window.png)
+![ngspice Simulation](Images/mux_sim_window.png)
 
 ngspice is used to simulate the circuit and plot the relevant node voltages.
 The simulation commands explicitly specify the signals of interest,
