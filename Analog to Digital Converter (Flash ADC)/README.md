@@ -50,11 +50,8 @@ The schematic shows:
 ## Simulation Setup
 
 The simulation applies:
-- Sine input voltage to cover the entire input range
-- Reference voltage supply
-- Standard Sky130 power rails
-
-This allows verification of both static transfer characteristics and transient behavior.
+- Sine input voltage to cover the entire output range
+- Standard Sky130 voltage 1.8v
 
 ---
 
