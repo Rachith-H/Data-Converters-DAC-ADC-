@@ -24,8 +24,8 @@ of the inputs are high.
 
 ## Design Approach
 
-The OR gate is implemented using ** CMOS logic**.
-The logic function is realized as a ** NOR gate ** followed by an Inverter.
+The OR gate is implemented using **CMOS logic**.
+The logic function is realized as a **NOR gate** followed by an Inverter.
 
 ---
 
